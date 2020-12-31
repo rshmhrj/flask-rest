@@ -1,0 +1,4 @@
+baseUrl: http://localhost:5001
+mongodb:
+  enabled: false
+  connectionString: mongodb://127.0.0.1:27017
